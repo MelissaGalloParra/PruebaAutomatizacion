@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Registro,Chrome 91.0.4472.124,,,2021-07-09 19:47:30,2021-07-09 19:48:19,48.618s,FAILED
+,,,,,,,
+Test Cases/RegistroUsuario/Registro,Chrome 91.0.4472.124,,,2021-07-09 19:47:34,2021-07-09 19:48:19,44.324s,FAILED
+"runFeatureFolder(""Include/features/Registro.feature"", STOP_ON_FAILURE)",Chrome 91.0.4472.124,,,2021-07-09 19:47:37,2021-07-09 19:48:19,42.110s,FAILED
